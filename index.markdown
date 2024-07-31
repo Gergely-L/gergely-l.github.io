@@ -4,7 +4,6 @@
 
 layout: default
 ---
-# Az oldalról:
 Ez az oldal a saját "passion projectem". Világ életemben szerettem számítógépről, telefonról, illetve tabletről tanulni, úgy, hogy nincsenek a "pdf" formátum általi korlátozások. Innen jött az ötlet, hogy csinálok egy saját weblapot
 
 Eredetileg csak magamnak terveztem futattni, ugyanakkor másoknak is sok segítség lehet egy hasonló portál, ezért döntöttem úgy, hogy ténylegesen megjelentetem.
