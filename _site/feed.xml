@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-31T23:23:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Szemészet</title><subtitle>Szemészeti témájú weboldal, mely elsősorban saját magam miatt csináltam, de másoknak is hasznos lehet az V. éves szemészet tárgy elsajátításában.     </subtitle><entry><title type="html">Szem fénytörési hibái I.</title><link href="http://localhost:4000/2024/07/31/myopia-hypermetropia.html" rel="alternate" type="text/html" title="Szem fénytörési hibái I." /><published>2024-07-31T00:00:00+02:00</published><updated>2024-07-31T00:00:00+02:00</updated><id>http://localhost:4000/2024/07/31/myopia-hypermetropia</id><content type="html" xml:base="http://localhost:4000/2024/07/31/myopia-hypermetropia.html"><![CDATA[<hr />
+
+<h1 id="geometriai-optika">Geometriai optika</h1>
+
+<p>A fény sebessége függ attól, hogy éppen milyen közegben vándorol. Különböző közegben, különböző sebessége lesz.<br />
+Ha egyik közegből átlép egy másikba, akkor alapvetően 3 dolog történhet:</p>
+
+<ul>
+  <li>Visszaverődik</li>
+  <li>Megtörik (irányt változtat): Ez a refrakció</li>
+  <li>Elnyelődik</li>
+</ul>
+
+<p>A refrakció mértéke függ attól:</p>
+
+<ol>
+  <li>Hogy mekkora a fény sebességkülönbsége a két közeg között</li>
+  <li>Mekkora szögben érkezik az adott fénysugár</li>
+</ol>
+
+<p>A levegőben gyorsabban vezetődik a fény, mint egy üveglencsében. A lencse alakja alapján a fény gyűjtődhet, vagy szóródhat:</p>
+
+<ul>
+  <li>Domború - Konvex lencse: Gyűjti a fényt
+    <ul>
+      <li>Ezeket jelezzük (-) jellel</li>
+    </ul>
+  </li>
+  <li>Homorú - konkáv lencse: Szorja a fényt
+    <ul>
+      <li>Ezeket jelezzük (+) jellel</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Egy lencse fénytörő képességét <strong>dioptriában (D)</strong> mérjük.</p>
+
+<p>Részletesebb megértéshez: <a href="\2024\07\31\geometriai-optika">Geometriai optika</a></p>
+
+<p><img src="/assets/img/Myopia/87b884a2a0b399e0e825829a14f8d00b.png" alt="87b884a2a0b399e0e825829a14f8d00b.png" /></p>
+
+<hr />
+
+<h1 id="anatómiai-alapok-az-emetrop-szem">Anatómiai alapok, az emetrop szem</h1>
+
+<h2 id="emetrop-szem">Emetrop szem</h2>
+<p>Alapvetően két törőközeg van egy emberi szemben, a szaruhártya és a szemlencse.
+Az emetrop szem alatt a normális anatómiailag érett szemet értjük.
+Az emetrop szem jellemzői</p>
+<ol>
+  <li>Cornea kb.: 43,5D</li>
+  <li>Szemlencse kb.: 20D</li>
+  <li>A szemtegelyhosz: 22-24 mm</li>
+</ol>
+
+<p>A szemünk a beérkező sugarakat össegyüjti, és 1 pontban fókuszálja, a foveában, ami az éleslátás központja. Az emetrop szem nyugalomban, a végtelenből érkező párhuzamos sugarakat a foveába fókuszálja.</p>
+
+<p>A szemben a fényt érzékelő receptorok, a csapok és a pálcikák a retinában helyezkednek el. Akkor tudunk két pontot különbözőnek felfogni, ha van két olyan receptorunk, amik között van legalább egy, ami nem jön ingerületbe.   <br />
+Ebből következik, hogy ahhoz, hogy nagy felbontásban lássunk sok receptornak sűrűn kell elhelyezkednie. Ez hely a szemben a retinán a sárgafolt, a fovea.    <br />
+A szem törőközegeinek a célja, hogy az érkező sugarakat a fovea helyére fokuszálja.</p>
+
+<p>Ugyanakkor, ha közelítjük a tárgyakat, akkor már nem párhuzamos sugarakról, hanem divergáló sugarakról beszélünk, ezek esetében növelni kell a törőerőt, hiszen a szemtengely hosszán nem tudunk változtatni.<br />
+A szemben a szemlencse az a képlet aminek a törőerejét tudjuk változtatni. A folyamatot accomodationak hívjuk.</p>
+
+<h2 id="szemlencse-és-a-corpus-ciliare">Szemlencse és a corpus ciliare</h2>
+
+<p>A szemlencse egy rugalmas domború kristálytiszta képlet. A zonularostok rögzítik a corpus ciliare-hoz és a pars plana-hoz.<br />
+A corpus ciliare az érhártya része, körkörös izmokból épül fel: <em>musculus ciliaris</em>.</p>
+
+<p>A szemlencse és a corpus ciliare működése, az accomodatio:</p>
+<ul>
+  <li>Ha a m. ciliaris contrahál, akkor csökkeni fog az a corpus ciliare átmérője, a zonularostok ellazulnak, a szemlencse saját rugalmassága miatt domborúvá válik, növekedni fog a törőereje, képes lesz a közeli tárgyakról jövő divergáló sugarakat összegyűjteni a cornea segítségével.</li>
+  <li>Ha corpus ciliare elernyed, akkor átmérője nő, a zonula rostok megfeszülnek, ezzel együtt a szemlencse is, ami abban nyíilvánul meg, hogy ellapul. Az ellapult szemlencse törőereje csökken, a távolabbról érkező, kevésbé divergáló sugarak fognak a foveaba fókuszálni.</li>
+</ul>
+
+<p><img src="/assets/img/Myopia/96befd2dc3e8c9b938fb9a031783b95b.png" alt="96befd2dc3e8c9b938fb9a031783b95b.png" /></p>
+
+<hr />
+
+<h1 id="myopia---rövidlátás">Myopia - rövidlátás</h1>
+<p>Myopia esetén a végtelen távolbó érkező párhuzamos sugarak a retina elütt fognak egyesülni.</p>
+
+<p>A myopiának két oka lehet:</p>
+<ol>
+  <li>A szem tengelye hosszú</li>
+  <li>A szem fénytörése túl erős nyugalomban is.</li>
+</ol>
+
+<p>Korrekciója negatív (-) homorú szórólencsével történik, vagy cornea refraktív sebészete által.</p>
+
+<p><img src="/assets/img/Myopia/8b1a7d1a8584c817f47e3bd0e9436603.png" alt="8b1a7d1a8584c817f47e3bd0e9436603.png" /></p>
+
+<hr />
+
+<h1 id="hypermetropia---túllátóság">Hypermetropia - túllátóság</h1>
+<p>Hypermetropia esetén az érkező sugarak a retina után egyesülnek.
+Ennek két oka lehet:</p>
+<ol>
+  <li>A szem tengelye túl rövid</li>
+  <li>A szem fénytörése túl gyenge accomodatioban is.</li>
+</ol>
+
+<p>A szemtengely rövidsége esetén, mivel lényegében “kevesebb hely van” a szemben, a képletek torlódnak, ezért hajlamosabbak ezek a betegek a zárt zugú glaucomára.</p>
+
+<p>Korrekciója pozitív (+) domború lencsével történi, vagy a cornea refraktív sebészete által (lsd. cornea sebészet tétel)
+<img src="/assets/img/Myopia//b2f0002a38d1f7e6967c1178aac85df8.png" alt="b2f0002a38d1f7e6967c1178aac85df8.png" /></p>
+
+<p>Korrekciója pozitív (+) domború lencsével történi, vagy a cornea refraktív sebészete által (lsd. cornea sebészet tétel)</p>
+
+<hr />
+<ul>
+  <li>Az emetrop szemnél az egész optikai rendszer megfelelően működik, a távoli és a közeli tárgyakat is élesen fogjuk látni.</li>
+  <li>Myopia esetén, mivel a beeső párhuzamos sugarak fókuszpontja a retina előtt helyezkednek el, ha az adott tárgyat közelebb hozzuk, akkor a fókuszpont is távolítható, pont a foveára. Ezért van az, hogy a myopiás szem közelre lát.</li>
+  <li>Hypermetropia esetén a beeső párhuzamos sugarak a retina mögött egyesülnek, és mivel nem tudja “távolabb vinni” a tárgyat, ezért ez a hypermetropiás szem sem közelre, sem távolra nem fog élesen látni. (Ha akomodál, akkor távolra láthat élesen, de így terheli és fárasztja a szemét.)</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">A könnytermelő és elvezető rendszer betegségei. A száraz szem szindróma</title><link href="http://localhost:4000/2024/07/31/konnyrendszer-betegsegei.html" rel="alternate" type="text/html" title="A könnytermelő és elvezető rendszer betegségei. A száraz szem szindróma" /><published>2024-07-31T00:00:00+02:00</published><updated>2024-07-31T00:00:00+02:00</updated><id>http://localhost:4000/2024/07/31/konnyrendszer-betegsegei</id><content type="html" xml:base="http://localhost:4000/2024/07/31/konnyrendszer-betegsegei.html"><![CDATA[<h1 id="anatómia">Anatómia</h1>
+<h2 id="a-könnytermelő-apparátus">A könnytermelő apparátus</h2>
+<p>A könny termelésének javarészét a könnymirigy termeli, mely az orbita felső temporalis részén helyezkedik el. Emelett számos kisebb mirigy is hozzájárul a könny termeléséhez.        <br />
+A könny lipidrétege alapvetően fontos, hogy a könny ne párologjon el túl hamar. A könny éipid rétegét a tarsus közvetlen közelében elhelyezkedő Meibim mirigy termeli.     <br />
+A könny mucin rétegét a conjuctiva kehely sejtjei termelik.   <br />
+A termelődött könnyet a szemhéjak mozgatásával - pislogással oszlatjuk szét a szemünkön és tereljük a könnyponthoz.</p>
+
+<h2 id="a-könnyelvezető-aparátus">A könnyelvezető aparátus</h2>
+<p>A könny elvezetése a könnyponton keresztül történik. Ez a belső zugban található 1-1 a felső és alsó szemhéjakon. A könnypont után a felső és alsó <em>canaliculus</em> tereli a könnyt a <em>könnytömlőhöz</em>, mely az <em>ductus nasolacrimalis</em>-on keresztül vezetődik az orrüregbe az alsó orrkagyló alatt.</p>
+
+<p><img src="/assets/img/Könny/9d9ee8005c8bb9d4b32b090b4a8b0eba.png" alt="9d9ee8005c8bb9d4b32b090b4a8b0eba.png" /></p>
+
+<h1 id="a-könny-szerepe">A könny szerepe</h1>
+<p>A könny egy 3 rétegű, 3-6 μm vékony réteg. A szemhéjak segítségével az egész szemfelszínen szétterül.</p>
+
+<p>Rétegei és azoknak a szerepe:</p>
+<ol>
+  <li><strong>Mucin réteg</strong> közvetlen a szemfelszínen, melyet a conjuctiva kehelysejtjei termelnek.
+    <ol>
+      <li>Könnyfilm stabilitását adja.</li>
+      <li>Mucinhoz horgonyzott immunoglobulinokkal a kórokozók ellen védelemben is szerepet játszik.</li>
+    </ol>
+  </li>
+  <li>Könnymirigyek által termelt <strong>vizes (aqeous) réteg</strong>.
+    <ol>
+      <li>Elektrolitokat, glükózt, oxigént, enzimeket és immunoglobulinkoat tartalmaz, az érmentes szaruhártya táplálása a feladata.</li>
+    </ol>
+  </li>
+  <li>Legkívül helyezkedik el a Meibom mirigyek által termelt <strong>lipidréteg</strong>.
+    <ol>
+      <li>Fő feladata a könny elpárolgásának megakadályozása.</li>
+      <li>Szerepe van még, mint surfactant a könny eloszlatásában.</li>
+    </ol>
+  </li>
+</ol>
+
+<p><img src="/assets/img/Könny/506e7932ef044aa5b8851771514e8939.png" alt="506e7932ef044aa5b8851771514e8939.png" /></p>
+
+<h1 id="könnytermelő-és-elvezető-apparátus-betegségei">Könnytermelő és elvezető apparátus betegségei</h1>
+<h2 id="dacryoadenitis">Dacryoadenitis</h2>
+<p>A könnymirigy gyulladása. Meglehetősen ritka, általában szisztémás autoimmun kórkép (Sjörgen szindróma), vagy fertőzés részeként alakul ki (mumpsz, bárányhimlő).   <br />
+Tünete az érintett oldali felső szemhéj temporalis oldalának a duzzanata, mely lehet hyperaemiás, és érzékeny. A szemhéjak felhúzásával láthatóvá tehető a gyulladt mirigy.  <br />
+Terápiája az alapbetegség kezelése, általában nyomtalanul gyógyul.    <br />
+Krónikus gyulladás esetén, a kiváltó ok mellett érdemes szisztémás gyulladáscsökkentő adása is, hogy elkerüljük a mirigy hegesedését.</p>
+<h2 id="dacrocystitis">Dacrocystitis</h2>
+<p>A könnytömlő gyulladása. A ductus nasolacrimalis elzáródásának a talaján alakul ki. <br />
+Akut és krónikus formája is ismert. <br />
+Legejelntősebb tünete az ephora, vagyis a könnyezés, a szemek váladékozása illetve a belső szemzüg alsó részének a vörhenyes gyulladása. <br />
+Elsődleges terápiája, a gyulladás szanálása szisztémás antibiotikummal, abscessus esetén párakötéssel. Szanálódása után dacrocystorhinostomát kell készíteni (A könnytömlő közvetlen összenyitása az orrüreggel).   <br />
+Krónikus formájában gyakran alakul ki conjuctivitis.</p>
+<h2 id="dacrocystitis-neonatorum">Dacrocystitis neonatorum</h2>
+<p>Veleszületett szűkülete a ductus nasolacrimálisnak. Az újszülött könnyezik, szeme váladékozik, a tünetek lehetnek 1 vagy 2 oldaliak.     <br />
+A tünetek antibiotikus kenyőcs hatására szanálódnak, de recidíválnak. Elfajulás esetén megjelenthetnek a duzzanattal, vörösséggel és fájdalommal járó tünetek.    <br />
+Terápiája a tömlő masszázsa supero-inferior irányba. Masszázs hatására 1 éves korra a betegség 90%-ban megszűnik, a további 10% szondázás hatására szűnik meg.</p>
+
+<h1 id="száraz-szem-szindróma">Száraz szem szindróma</h1>
+<p>A száraz szem szindrómát a könny elégtelen mennyisége okozza. Ennek két oka lehet:</p>
+<ol>
+  <li>Elégtelen termelődés - könnyhiányos</li>
+  <li>Túlzott párolgás - evaporatív</li>
+</ol>
+
+<p>A könnyhiányos száraz szem szindróma oka a könnymirigy csökkent működése.   <br />
+Ennek különböző okai lehetnek:</p>
+<ul>
+  <li>Gyulladásos kórképek: dacroadenitis
+    <ul>
+      <li>Szisztémás mikrobiális fertőzés</li>
+      <li>Autoimmun kórképek (Sjörgen, SLE, Rheumatoid arthritis, stb.)</li>
+      <li>Tumoros folyamatok és azok kezelése miatt eltávolított könnymirigy</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Az evaporatív száraz szem szindróma oka lehet belső vagy külső:</p>
+<ul>
+  <li>Belső: Meibom mirigy elégtelen működése, szemrés és a szemhéjak betegségei pl.: blepharitis</li>
+  <li>Külső: Krónikus betegségek talaján, pl.: chr. conjuctivitis, A vitamin hiány, szemcseppek tartós használata során fellépő cornea toxicitás</li>
+</ul>
+
+<h2 id="száraz-szem-tünetei">Száraz szem tünetei</h2>
+<p><em>“Mintha homok lenne a szememben”</em></p>
+
+<p>Szubjektív tünetek: Irritáció idegentestérzéssel, fájdalom, könnyezés és sűrű nyákos váladék megjelenése, szemviszketés, szemük vörös lesz. A betegek kerülik a fényt, látásuk homályossá válik, fáradékony lesz a szemük.</p>
+
+<p>Objektív tünetek: A könnyfilm termelődése, stabilitása csökken, összetétele megváltozik. Száraz szem szindróma szövődménye a cornea és a conjuctiva károsodása, gyulladása, fekélyek képződése.   <br />
+Legsúlyosabb szövődménye a keratoconjuctivitis sicca. Esetében a pislogás a hám laza felső részét lesodorja a szemfelszínről, ennek a nyomai réslámpával láthatóak.    <br />
+Típusos jel, ha a Meibom mirigy disfunkció okozza a problémát, ha reggel ébredéskor a szemek váladékosak, a szemhéjak összeragadtak.</p>
+
+<h2 id="száraz-szem-diagnosztikája-és-kezelése">Száraz szem diagnosztikája és kezelése</h2>
+<p>Diagnosztikája többrétű:
+Elsődleges a könny állapotának a felmérése:</p>
+<ul>
+  <li>Schirmer teszttel csökkent könnytermelődés.</li>
+  <li>Fluoreszceines lerövidült könnyfilm felszakadási idő.</li>
+  <li>Könnyfilm ozmolaritása növekszik.</li>
+  <li>Szemhéjak és a Meibom mirigyek eltérései láthatóak.</li>
+</ul>
+
+<p>Terápiája során több lehetőség szóbajön:</p>
+<ul>
+  <li>Ha van kezelhető alapbetegség, pl.: szisztémás autoimmun kórkép, vagy a szemhéj betegség annak a kezelése</li>
+  <li>Tüneti kezelésként különböző műkönnyek adása</li>
+  <li>Tüneti kezelés, ha van számottevő könny termelés, a könypontok elzárása</li>
+  <li>Cornea védelme kontaktlencsékkel</li>
+  <li>Páramegtartó kamrával a könny párolgásának a csökkentése</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Anatómia A könnytermelő apparátus A könny termelésének javarészét a könnymirigy termeli, mely az orbita felső temporalis részén helyezkedik el. Emelett számos kisebb mirigy is hozzájárul a könny termeléséhez. A könny lipidrétege alapvetően fontos, hogy a könny ne párologjon el túl hamar. A könny éipid rétegét a tarsus közvetlen közelében elhelyezkedő Meibim mirigy termeli. A könny mucin rétegét a conjuctiva kehely sejtjei termelik. A termelődött könnyet a szemhéjak mozgatásával - pislogással oszlatjuk szét a szemünkön és tereljük a könnyponthoz.]]></summary></entry><entry><title type="html">Szem fénytörési hibái II.</title><link href="http://localhost:4000/2024/07/31/astygmia-presbyopia.html" rel="alternate" type="text/html" title="Szem fénytörési hibái II." /><published>2024-07-31T00:00:00+02:00</published><updated>2024-07-31T00:00:00+02:00</updated><id>http://localhost:4000/2024/07/31/astygmia-presbyopia</id><content type="html" xml:base="http://localhost:4000/2024/07/31/astygmia-presbyopia.html"><![CDATA[<p>A szem fénytörésének megértéséhez:</p>
+<ol>
+  <li>Geometriai optika és fénytörés magyarázat: <a href="../undefined">Geom. optika - fénytörés</a></li>
+  <li>Myopia és hypermetropia tétel: <a href="../undefined">Szem fénytörési hibái - myopia, hypermetropia</a></li>
+</ol>
+
+<hr />
+
+<h1 id="astygmia">Astygmia</h1>
+
+<p><img src="/assets/img/Astygmia/6a00a6394e36c32e445b5034a7ac3245.png" alt="6a00a6394e36c32e445b5034a7ac3245.png" /></p>
+
+<p>Ha vizualizálni akarjuk a szem optikai rendszerét, ahogy megtöri a fényt, egy kupot kapunk, melynek a csúcsa a fókuszpont.  <br />
+Ehhez arra van szükség, hogy a törőfelszín, egyenlő sugarú koncentrikus körökből épüljön fel, tökéletes gömbfelszínnek kell lennie.    <br />
+Ha ez nincs meg, akkor nem egy szép kúp alakban fog törni a fény, nem egy pontban fognak egyesülni a sugarak, tehát nem egy pontban fognak vetülni a retinára, többfókuszpont lesz a rendszerben.
+Ez az állapot az astygmia.</p>
+
+<p>Az astygmia lehet szabályos vagy szabálytalan:</p>
+<ul>
+  <li>Szabályos astygmia: ha van egy gyengébben törő tengely és egy erőteljesebben törő tengely, ezek egymásra merőlegesek</li>
+  <li>Szabálytalan astygmia: Ha nem merőleges a két törőtengely, vagy nem <em>“szabályos”</em> a köztük lévő átmenet</li>
+</ul>
+
+<p><img src="/assets/img/Astygmia/79fbb1003bb27f219dcc3ab38e61de20.png" alt="79fbb1003bb27f219dcc3ab38e61de20.png" /></p>
+
+<p>Az astygmiát diagnosztizálni, mértékét meghatározni többféleképpen lehet:</p>
+<ul>
+  <li>Automata refraktométerrel</li>
+  <li>Keratométerrel vagy keratotopográffal</li>
+  <li>Placido koronggal</li>
+</ul>
+
+<p>Az astigmia mértéke mellett meg kell határozni az “irányát”, hogy milyen szögben áll.</p>
+
+<p>Az astygmia többféle képpen kezelhető:
+Szemüveggel, cilinderes lencsét kell használni, ami a meghatározott értékű és szögű astygmiát korrigálja.  <br />
+Kontaktlencse használatánál az enyhe fokú astygmiát maga a kontaktlencse képes sphericus formában korrigálni, nem kell cylinderes kontaktlencse. Súlyosabb fokú astygmia esetén léteznek cilinderes kontaktlencsék, melyek súlyozva vannak, hogy megfelelően álljon be az astygmia korrigálására.  <br />
+Astygmia, refraktív sebészeti módszerrel korrigálható, lézerrel egynletes felszín kialakítható.   <br />
+Szemlencse műtétnél, alkalmazhatóak ún. tórikus műlencsék, melyek megfelelően beállítva képesek az astygmiát korrigálni.</p>
+
+<h1 id="presbyopia---öregszeműség">Presbyopia - öregszeműség</h1>
+<p>Az egész életkor alatt zajló folyamat, mialatt a szemlencse folyamatosan veszít a víztartalmából, ezzel a rugalmasságából is. Ez a kor előrehaladtával egyre inkább megnehezíti az akkomodációt, törési hypermetropia alakul ki.
+A rugalmassági változáson túl, a lencse korosodásával metabolikus változások is kialakulnak, melyek a szemlencse átteszőségének csökkenéséhez, cataractához vezetnek.</p>
+
+<p>Presbyopia kezelése plusszos (+) gyűjtőlencse segítségével lehetséges, melyet szemüveg, vagy kontaktlencse formájában írhatunk fel a betegnek.
+A catarcatát definitíve sebészi úton lehet kezelni.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[A szem fénytörésének megértéséhez: Geometriai optika és fénytörés magyarázat: Geom. optika - fénytörés Myopia és hypermetropia tétel: Szem fénytörési hibái - myopia, hypermetropia]]></summary></entry><entry><title type="html">Glaucoma - akut zárt zugú és a nyílt zugú</title><link href="http://localhost:4000/2024/07/31/glaucoma.html" rel="alternate" type="text/html" title="Glaucoma - akut zárt zugú és a nyílt zugú" /><published>2024-07-31T00:00:00+02:00</published><updated>2024-07-31T00:00:00+02:00</updated><id>http://localhost:4000/2024/07/31/glaucoma</id><content type="html" xml:base="http://localhost:4000/2024/07/31/glaucoma.html"><![CDATA[<p>Alapvetően ez két külön tétel lenne, de szerintem sokkal logikusabb és könyebb egybe vizsgálni, (főleg mert sok átfedés van) a “két” glaucoma fajtát. Így egy bejegyzésben vizsgálható, mind a zárt, mind a nyílt zugú glaucoma.</p>
+
+<h1 id="mi-az-a-glaucoma">Mi az a glaucoma?</h1>
+<p>A glaucoma (zöldhályog) a retinális ganglionsejtek apoptosis általi fokozott elhalását jelenti. A retinális ganglionsejtek alapjáraton, bár kis mértékben elhalnak, de ez nem vezet látáskárosodához. Glaucomában ez a folyamat gyorsul, mely <strong>irreverzibilis</strong> látótér defektust fog okozni.
+<strong>Retinális ganglionsejtek:</strong> Ezek a sejtek veszik át a csapoktól és a pálcikáktól az ingerületet, majd haladnak a látóidegfőhöz (papilla) ahol a nercus ophthalmicus rostjait alkotják.</p>
+
+<p><strong>Primer glaucoma:</strong> A glaucoma, mint önálló entitás van jelen, nem más betegség részeként.
+<strong>Szekunder glaucom:</strong> A glaucoma más szemészeti betegség részeként van jelen, pl.: elülső csarnok vérzés esetén az eldugaszolja a trabeculáris rendszert.</p>
+
+<h2 id="zárt-vagy-nyílt-zugú-glaucoma">Zárt vagy nyílt zugú glaucoma?</h2>
+<p><strong>Zárt zugú glaucoma:</strong> A csarnokvíz egészséges egyénben az elülső csarnokban, a csarnokzugon keresztül hagyja el a szemet és kerül bele a vénás keringésbe. A csarnokvizet a hátsó csarnokban termeli a corpus ciliare, innen a szemlencse és az iris között jut át az elülső csarnokba. Ha az iris és a szemlencse közötti tér megszűnik, például időskorban a lencse vastagodásával, a felgyülemlett hátsó csarnoki nyomás eki préseli az irist a csarnokzughoz. Ha az Iris elzárja a csarnokzugot, akkor nem folyik el a csarnokvíz, megemelkedik a szembelnyomás (norm.: 10-20 Hgmm), ami glaucomához vezet.
+<strong>Nyílt zugú glaucoma:</strong> A csarnokzug maga nyitott, de a trabeculáris rendszer ugyanakkor eltömödött. Ez fokozatosan emeli a szembelnyomást akár 22-40 Hgmm értékre, ami miatt tünetszegény. Európában ez a leggyakoribb típus. Sokszor járul hozzá a látóidegfő keringészavra.</p>
+
+<h1 id="glaucoma-kórélettana">Glaucoma kórélettana</h1>
+<p>A glaucomát több tényező együttesen alakít ki. Alapvetően maga a megnövekedett IOP is kialakítja, de nagyban hozzájárul a retina végarterioláinak a keringésszabályozó defektusa. Az adott arteriola contrahal, ami ischaemiát okoz, majd dilatál ami miatt reperfúziós károsodás alakul. A keringésszabályozási zavar, megakadályozza, hogy az emelkedett IOP-t és annak ingadozását ellensúlyozza a látóidegfő vérellátása.</p>
+
+<p>A ganglionsejtek lefutása a látóidegfőtől ív alakban történik. Az első látótérkiesések kiesett szigetekként jelentkeznek (scotoma), majd a betegség progrediálásával ezek a scotomák összenőnek és kialakul a jellegzetes ív alakú látótérkiesés.</p>
+
+<h1 id="akut-zártzugú-glaucoma-klinikuma">Akut zártzugú glaucoma klinikuma</h1>
+<p>Akut zártzugú glaucoma esetén a tünetek rendkívül hevesek és kellemetlenek.</p>
+<h2 id="akut-zártzugú-glaucoma-tünetei">Akut zártzugú glaucoma tünetei:</h2>
+<p>Néhány óra alakulnak ki a rendkívül kellemetlen tünetei:
+<strong>Szubjektív tünetek:</strong></p>
+<ul>
+  <li>Heves homlok és szemfájdalom</li>
+  <li>Látás ködössé válása</li>
+  <li>Látásélesség csökkenése</li>
+  <li>Hányinger és hányás lép fel</li>
+  <li>A beteg fényforrásra nézve szivárványszínű karikát lát</li>
+  <li>Kezelés nélkül napok alatt teljes vaksághoz vezet
+<strong>Objektív tünetek:</strong></li>
+  <li>A szemen pangásos belöveltség</li>
+  <li>Pupilla tág és fényre nem, vagy renyhén reagál</li>
+  <li>Szemnyomása emelkedett</li>
+</ul>
+
+<h1 id="nyílt-zugó-glaucoma-klinikuma">Nyílt zugó glaucoma klinikuma</h1>
+<p>Főleg 40 éves kor után alakul ki. Jellegzetessége, hogy a csarnokzug nyitott, viszont a trabeculáris rendszer tömöttebb, ezért akadályozott a csarnokvíz elfojása, ami növeli az IOP-t. Nagyon gyakran tünetszegény, nem jár fájdalommal, az első tünete a látótér kiesés.
+Lényeges információ, hogy az IOP szignifikáns napi ingadozást mutat, ezért például egy nyomásmérés nem elegendő, több értéket kell felvenni. Kezelésének is alappilére, hogy ezt az ingadozást csökkentsük.</p>
+
+<h1 id="glaucomás-beteg-vizsgálata">Glaucomás beteg vizsgálata</h1>
+<h2 id="szembelnyomás-vizsgálata">Szembelnyomás vizsgálata:</h2>
+<p>Első körben kézzel kell megvizsgálni a beteget: A két kezün középső, gyűrűs és kisujját tegyük a csontos orbitafalra, a két mutatóujjunkat a szemhéjon keresztül a bulbusra. Az egyik mutató ujjunkkal finoman nyomjuk be a bulbust, ekkor a másik ujjunkon éreznünk kell a nyomást. Ha nem érezzük, és a bulbus kemény, akkor valószínűleg magas az IOP érték.
+Eszközös módszerrel, applanatiós elvet követő műszerekkel lehet mérni az IOP-t. Elérzéstelenített corneat lelapítja a gép, és az ehhez szükséges erőt méri, ez alapján adja meg az IOP-t.</p>
+
+<h2 id="csarnokzug-vizsgálata">Csarnokzug vizsgálata</h2>
+<p>Alapvetően 3 módszerrel lehet vizsgálni a csarnokzugot:</p>
+<ol>
+  <li>Pupilla lámpával oldalról megvilágítva árnyékot nézünk.</li>
+  <li>Réslámpával a limpus felől megvilágítva nézzük a cornea reflactioja és az iris közötti árnyékot.</li>
+  <li>Tükröt helyezve a corneára direktbe tudjuk vizsgálni a csarnokzugot (Gonioscopia).</li>
+</ol>
+
+<h2 id="látótér-vizsgálata---perimetria">Látótér vizsgálata - Perimetria</h2>
+<p>A glaucomás betegek követésére alkalmas, a betegség progresszióját lehet követni. Eleinte nem is mérhető eszközösen a látótér kiesés, a betegség előrehaladásával válik láthatóvá.
+A látótér vizsgálatnak több módszere van:</p>
+<ul>
+  <li>Kinetikus perimetria: lényege, hogy egy fénypontot a periféria felől a centrum felé mozgatunk, a beteg jelzi, amikor látja a pontot. Kirajzolható vele az isopter, ami az a haárvonal amin belül a beteg látótere ép.</li>
+  <li>Statikus perimetria: Itt a fénypont nem mozog, hanem különböző intenzitásokkal bukkan fel a látótér különböző részein. Ez kiváló a retina egyes részeinek a vizsgálatára, alkalmas pl.: scotomák kirajzolására.</li>
+  <li>Látótér követésére alkalmas az ún. Amsler rács. Lényegében egy négyzethálós rácsról van szó, amivel a beteg tudja magának követni a látóterének az alakulását.</li>
+</ul>
+
+<p>### Összegezve:
+ Ami fontos, hogy glaucoma diagnózisa nem állítható fel csak egy fajta vizsgálattal. A vizsgálatokat összeségében kell értékelni és azok alapján a megfelelő diagnózist felállítani.</p>
+
+<h1 id="glaucomás-beteg-kezelése">Glaucomás beteg kezelése</h1>
+<h2 id="akut-zárt-zugú-glaucoma-kezelése">Akut zárt zugú glaucoma kezelése</h2>
+<ul>
+  <li>Egyik elsőrendű pillér a dehydratatio:
+    <ul>
+      <li>Karbon-anhidráz gátlók: Működésének az, hogy fokozza a Na(+), HCO(3-) és Cl(-) ionok kiválasztását, velük együtt a víz kiválasztását ezzel csökkentve a folyadék volument, ami az IOP csökkenéséhez vezet.</li>
+      <li>Mannitol: Ozmotikusan csökkenti az intraocularis volument</li>
+    </ul>
+  </li>
+  <li>Csökkentsük a csarnokvíz termelődésétt:
+    <ul>
+      <li>Beta receptor blokkolók</li>
+      <li>Muszkarin agonista adása (pilocarpin)
+        <ul>
+          <li>A muszkarin antagonisták a pupillát is szűkítik, ami tovább hozzájárul a csarnozug felszabadításához</li>
+          <li>20 percenként 1 csepp</li>
+        </ul>
+      </li>
+      <li>(Karbonanhidráz gátlók is csökkentik, a bikarbonát termelése révén)</li>
+    </ul>
+  </li>
+  <li>Definitív ellátása, a csarnokvíz áramlásának megoldása:
+    <ul>
+      <li>Lézerrel lyukat ütünk az irisen, ezen a lyukon keresztül tud áramolni a csarnokvíz a hátsó csarnok és a zug között.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="nyílt-zugú-glaucoma-kezelése">Nyílt zugú glaucoma kezelése</h2>
+<ul>
+  <li>Csarnokvíz termelésének a csökkentése:
+    <ul>
+      <li>Beta receptor blokkoló</li>
+      <li>Alfa receptor izgatók, főleg az alfa-2 selektívek
+        <ul>
+          <li>Az alfa-1 receptro izgatás több mellékhatást okoz</li>
+        </ul>
+      </li>
+      <li>Karbonanhidráz gátlók</li>
+    </ul>
+  </li>
+  <li>Csarnokvíz uveo-scleralis elvezetésének fokozása
+    <ul>
+      <li>Prosztaglandin származékok</li>
+    </ul>
+  </li>
+  <li>Pupilla szűkítése, ezzel a csarnokzug tágítása
+    <ul>
+      <li>Muszkarin agonisták pl.: Pilocarpin
+        <ul>
+          <li>Ma már ritkán alkalmazzák, mert a szűk pupilla rontja a látást, összenövéseket okozhat, illetve napi 3-szor kell csepegtetni, amit sokan nehezen tudnak tartani.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Kombinált készítmények több támadáspontért:
+    <ul>
+      <li>Ez a legjobb opció, mert kevesebbszer kell cseppenteni, ezzel a mellékhatások is csökenthetők</li>
+    </ul>
+  </li>
+  <li>Trabeculáris rendszer tágítása:
+    <ul>
+      <li>Lézeres trabeculoplasztika
+        <ul>
+          <li>Lézerfénnyel való stimuláció hatására átrendeződik a trabeculáris rendszer extracelluláris mátrixa, ami miatt tágabb lesz a rendszer.</li>
+          <li>Műtéti trabeculectomia</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Alapvetően ez két külön tétel lenne, de szerintem sokkal logikusabb és könyebb egybe vizsgálni, (főleg mert sok átfedés van) a “két” glaucoma fajtát. Így egy bejegyzésben vizsgálható, mind a zárt, mind a nyílt zugú glaucoma.]]></summary></entry><entry><title type="html">Palpebra</title><link href="http://localhost:4000/2024/07/30/Palpebra.html" rel="alternate" type="text/html" title="Palpebra" /><published>2024-07-30T00:00:00+02:00</published><updated>2024-07-30T00:00:00+02:00</updated><id>http://localhost:4000/2024/07/30/Palpebra</id><content type="html" xml:base="http://localhost:4000/2024/07/30/Palpebra.html"><![CDATA[<hr />
+<h1 id="palpebra-anatómia">Palpebra anatómia:</h1>
+<p><strong>A szem védelmét szolgáló mozgásra képes módosult bőrredő</strong></p>
+
+<p>Maga szemhéj 2 lemezre osztható:</p>
+<ul>
+  <li>Elülső lemez</li>
+  <li>Hátulsó lemez</li>
+</ul>
+
+<p>Az elülső lemez a külső felszínt borító bőrből (elszarusodó laphám) és a mögötte álló <em>musculus orbicularis oculi</em>-ból áll.
+A hátulsó lemez a <em>m. orb. oculi</em> mögött elhelyezkedő tarsusból és a belfelszínt fedő tarsalis conjuctivából áll.
+A <em>m. orb. oculi</em> és a tarsus között a szemhéjszélen taláhatóak a pillaszőrök. Az izom és a tarsus határozza meg ezek helyzetét.</p>
+
+<p>A palpebrában 3 jelentős mirigy található:</p>
+<ul>
+  <li>Meibom mirigy: Tarsus lemezében található, módosult faggyúmirigy, mely a könny lipidrétegét termeli</li>
+  <li>Moll-féle mirigy: Módosult verejtékmirigy</li>
+  <li>Zeiss-féle mirigy: Módosult faggyúmirigy
+A Meibom mirigy a tarsus és conjuctiva Moll és Zeiss féle mirigyek pedig a pillaszőrökkel nyílnak.
+(A könnymirigynek van pars palpebralisa, de nem feltétlen tartozik a szemhéj rendszeréhez)</li>
+</ul>
+
+<p><img src="\assets\img\palpebra-cikk\anatomy.png" alt="anatomy" /></p>
+
+<h2 id="palpebra-mozgató-apparátus">Palpebra mozgató apparátus:</h2>
+<h3 id="retractorok---a-szemrés-nyitását-végző-izmok">Retractorok - a szemrés nyitását végző izmok:</h3>
+<p>A palpebra superior tarsusán tapad a <em>m. levator palpebrae superioris</em> ami a szemrés nyitását végzi. Erről az izomról ered a <em>m. tarsalis</em> (Müller izom) simaizom. A palpebra inferior tarsusán is tapad egy <em>m. tarsalis inferior</em>, ez a <em>m. rectus inferior</em>-on ered.</p>
+
+<p>A <em>m. lev. palp. sup.</em>-t a N. III. (occulomotorius) idegzi be, míg a <em>mm. tarsales</em> -t a carotis fonattal érkező sy. idegek.</p>
+
+<h3 id="protractorok---a-szemrés-zárását-végző-izmok">Protractorok - a szemrés zárását végző izmok:</h3>
+<p>A szemrés zárását a <em>m. orbicularis oculi</em> végzi. Két része van: pars orbitalis és pars palpebralis (ennek a szemhéj hibás állásánál jelentősége lesz)</p>
+
+<hr />
+
+<h1 id="palpebra-mirigyeinek-a-betegségei">Palpebra mirigyeinek a betegségei</h1>
+<h2 id="chalaseon---meibom-ciszta">Chalaseon - Meibom ciszta</h2>
+<p>A Meibom mirigy kivezetőcsövének elzáródása miatt kialakuló krónikus gyulladás.</p>
+
+<p>Szubjektív tünetek: Általában nincs, fájdalom mentes. Ha olyan szinten lenyomja a szemhéjat, hogy az belelóg a pupillába, akkor látászavart okozhat. <br />
+Objektív tünetek: Fokozatosan nagyobbodó fájdalmatlan csomó</p>
+
+<p>Terápia: Műtéti megnyitás és kitakarítás</p>
+
+<p>Diff. dig: ha rendszeres kiújul <strong>mindig gondoljunk meibom mirigy carcinomára</strong></p>
+
+<p><img src="\assets\img\palpebra-cikk\839481478ea74b09fb4a5419b6e15365.png" alt="839481478ea74b09fb4a5419b6e15365.png" /></p>
+
+<h2 id="hordeolum---árpa">Hordeolum - Árpa</h2>
+<p>Hordeolum internum: Meibom mirigyek acut bakteriális gyulladása. Általában Staph. aureus okozza. <br />
+Hordeolum externum: A Moll-féle verejtékmirigyek és a Zeiss-féle faggyú mirigyek acut bakteriális gyulladása.</p>
+
+<p>Általában a Staph. aureus okozza.</p>
+
+<p>Szubjektív tünetek: Fájdalmas szemhéjszéli vörös csomó.  <br />
+Objektív tünetek: Vörös, puha és ödémás csomó. Gyakran áttűnik a csomó csúcsán a fehéres genny.</p>
+
+<p>Terápia: Párakötés felhelyezése antibiotikum kenőccsel. Ha nem fakad ki spontán műtéti, eltávolítás és drenázs.</p>
+
+<p>Gyakori árpa diabetes mellitust jelezhet.</p>
+
+<p><img src="\assets\img\palpebra-cikk\dc2b337f23aeb39019aa27be7ad5c8eb.png" alt="dc2b337f23aeb39019aa27be7ad5c8eb.png" /></p>
+
+<h2 id="ciszták">Ciszták</h2>
+<p>Moll-féle mirigyek cystái: Víztiszta bennékű cystosus képlet, általában soliter. <br />
+Zeiss-féle mirigy cystái: Olajos sűrű bennékéű cystosus elváltozás, általában soliter.</p>
+
+<p><img src="\assets\img\palpebra-cikk\d86f276f5a2ae1414dfeca68cdb01b2d.png" alt="d86f276f5a2ae1414dfeca68cdb01b2d.png" /></p>
+
+<hr />
+
+<h1 id="palpebra-nodusok-és-plakkok">Palpebra nodusok, és plakkok</h1>
+<h2 id="xanthelasma">Xanthelasma</h2>
+<p>Lipid és cholesterin lerakódások a szemhéjon és környékén.<br />
+Lináris sárgás barnás puha, enyhén kiemelkedő plakkok.<br />
+Jelezehet hyperlipidaemiát, ezért ismeretlen lipidprofil esetén laborviszgálattal tisztázni kell.<br />
+Terápiája műtéti</p>
+
+<p><img src="\assets\img\palpebra-cikk\f16720c9c15a3b9ff19bd578aef3c9f9.png" alt="f16720c9c15a3b9ff19bd578aef3c9f9.png" /></p>
+
+<h2 id="moluscum-contagiosum">Moluscum contagiosum</h2>
+<p>Főleg gyermekkorban előforduló vírusos fertőző megbetegedés. Bőrkontaktus útján fertőz, immunhiányosokban nagy számban megjelenhet. <br />
+Gyöngyszerű bőrből kiemelkedő nodusok, közepük gyakran behúzódik.</p>
+
+<p>Spontán is gyógyulhat, de a fertőző jellege miatt éles kanállal eltávolítandóak.</p>
+
+<p><img src="\assets\img\palpebra-cikk\/1e8a21458021b921b0da9f24fa4d3868.png" alt="1e8a21458021b921b0da9f24fa4d3868.png" /></p>
+
+<hr />
+
+<h1 id="szemhéjszél-betegségei">Szemhéjszél betegségei</h1>
+<h2 id="trichiasis">Trichiasis</h2>
+<p>A pillaszőrök a cornea felé néznek, azt irritálják.
+Kezelése a szőrök eltávolítása, kryotherápiával, vagy mechanikus úton.</p>
+<h2 id="dystiachiasis">Dystiachiasis</h2>
+<p>Veleszületett dupla pillasor, melyek a normálisakhoz képest befelé, a cornea felé helyezkednek el, azt irritálják.
+Kezelése kryotherápiával való destruálásuk.</p>
+<h2 id="poliosis">Poliosis</h2>
+<p>Fehér pilaszőr szakaszok, melyek chr. blepharitist, egyéb szisztémás betegségeket jelezhetnek.</p>
+<h2 id="madarosis">Madarosis</h2>
+<p>Pillaszőrök kihullása, melyek gyulladást, esetleg infiltráló tumort jelezhetnek.</p>
+<h2 id="blepharitis">Blepharitis</h2>
+<p>A szemhéjszél gyulladása, mely általában krónikus formában fordul elő, és gyakran egész életen át tart. Gyakoribb seborhoeás bőrtípusú egyénekben.</p>
+
+<p>Szubjektív tünetek: Égető viszkető érzés, mely a szem becsukására enyhül. <br />
+Objektív tünetek: Vörös duzzadt szemhélyszél, gyakran korpás a szempillák között. Megfigyelhető a szemhéjszél hámjának a hyperkeratinisatioja is. Gyakran gyulladtak, eldugaszoltak a meibom mirigyek, ami meibom mirigy diszfunkcióhoz vezet. Ilyenkor a meibom mirigy nem képes megfelelő mennyiségű lipiddel ellátni a könnyet. Ha nincs lipid a könnyben fokozódni fog a könny evaporációja, ami végül száraz szem szindrómához vezet.</p>
+
+<p>Súlyos formája a blepharitis ulcerans, ami gennyes fekélyes gyulladással jár.</p>
+
+<p><img src="\assets\img\palpebra-cikk\91e0cba773bd31bd3b529080084fcc7e.png" alt="91e0cba773bd31bd3b529080084fcc7e.png" /></p>
+
+<hr />
+
+<h1 id="szemhéj-hibás-állása">Szemhéj hibás állása</h1>
+<h2 id="entropion">Entropion</h2>
+<p>Szemhéj befelé fordulása. A pillaszőrök ráfekszenek a bulbusra, azt irritálják.</p>
+
+<p>Formái:</p>
+<ul>
+  <li>Senilis: A izom és ligamenter rendszerek átalakulása miatt, megváltoznak a húzóerő viszonyok a szemhéjon, úgy, hogy befelé billentik azt.</li>
+  <li>Heges: A szemhéj conjuctivalis felszínén heg alakul ki, ami húzóerejével beflé billenti a szemhéjszélt.</li>
+  <li>Congenitalis: Veleszületett deformitás.</li>
+</ul>
+
+<p>Szubjektív tünetek: Fájdalmas, égető idegentsetérzés.  <br />
+Objektv tünetek: Befelé fordult szemhéjszél látható, a pillaszőrök a bulbussal érintkeznek. Cornea irritáció miatt fekélyek alakulhatnak ki, súlyos esetben perforáció is.</p>
+
+<p>Terápia: Ha oki terápia nem kivitelezhető, akkor műtéti szemhéjplasztika.</p>
+
+<p><img src="\assets\img\palpebra-cikk\d85623676f2b7c90d3d0fba98be2688a.png" alt="d85623676f2b7c90d3d0fba98be2688a.png" /></p>
+
+<h2 id="ectropion">Ectropion</h2>
+<p>Szemhéj kifelé fordulása. Tarsalis conjuctiva egy része szabaddá válik, a könypont kifordul.</p>
+
+<p>Formái:</p>
+<ul>
+  <li>Senilis: A izom és ligamenter rendszerek átalakulása miatt, megváltoznak a húzóerő viszonyok a szemhéjon, ami kifelé billentik azt.</li>
+  <li>Heges: A szemhéj külső, bőrrel fedett felszínén heg alakul ki, ami húzóerejével kifelé billenti a szemhéjszélt.</li>
+  <li>Paralyticus: A N.VII.(facialis) paresise miatt a <em>m. orb. oculi</em> bénul, ami a szemhéj stabilitását adná, ezáltal kifelé billen a szemhéjszél.</li>
+  <li>Mechanikus: pl.: daganat súlya “lefelé” húzza a szemhéjszélt.</li>
+</ul>
+
+<p>Szubjektív tünetek: Fájdalmas égető érzés.   <br />
+Objektív tünetek: Szemhéjszél kifelé fordul, conjuctiva szabaddá válik, emiatt conjuctivitis alakul ki, keratinizálódhat a kötőhártya.</p>
+
+<p>Terápiája: Ha oki terápia nem lehetséges, műtéti szemhéjplasztika</p>
+
+<p><img src="\assets\img\palpebra-cikk\d391b57990e741c2de758f660c2f6b99.png" alt="d391b57990e741c2de758f660c2f6b99.png" /></p>
+
+<h2 id="ptosis">Ptosis</h2>
+<p>A szemhéj “csüngése”. A palpebra superior mélyebben áll a szemrésben.
+Ha a szemhéj eléri a pupillát, akkor látászavar alakulhat ki.</p>
+
+<p>Fajtái:</p>
+<ul>
+  <li>Neurogén: N.III. (oculomotorius) bénulás esetén, vagy sympathicus beidegzés laesioja esetén. Sy. laesio esetén horner triász része lehet: [1] Ptosis, [2] Miosis, [3] Anhydrosis (izzadási képtelenség)</li>
+  <li>Myogén: <em>m. lev. palp. sup.</em> direkt diszfunkciója esetén. Okozhatja myasthenia gravis, dystrophia myotonica, vagy congenitalis ocularis myopathia</li>
+  <li>Aponeurotikus: Általában idősekben, esetleg műtét után a levator izom desinsertioja esetén.</li>
+  <li>Mechanikus: Valamely tumoros folyamat, ödéma talaján , “lenyomva” a szemhéjat alakul ki ptosis</li>
+</ul>
+
+<p>Ha a kiváltó ok nem kezelhető, akkor műtéti kezelést igényel.</p>
+
+<p><img src="\assets\img\palpebra-cikk\7f1231282385945a3d023efc4f83698b.png" alt="7f1231282385945a3d023efc4f83698b.png" /></p>
+
+<h2 id="pseudoptosis">Pseudoptosis</h2>
+<p>A szemhéj maga nem csüng, hanem a szemhéj bőrének az involunciós “leereszkedése”. Ez túlnyúlhat a szemhéjon, és ptosis szerű állapotot hozhat létre.</p>
+
+<p>Terápiája műtéti.</p>
+
+<hr />
+
+<h1 id="jóindulatú-szemhéjtumorok">Jóindulatú szemhéjtumorok</h1>
+<h2 id="közönséges-szemölcs---papilloma">Közönséges szemölcs - papilloma</h2>
+<p>HPV vírus fertőzés talaján kialakult vírusos szemölcs. Eltávolítandó, kryoterápiával, lézerrel, esetleg műtétileg.</p>
+
+<p><img src="\assets\img\palpebra-cikk\5b82d7e641c0cee3934185b264d7c950.png" alt="5b82d7e641c0cee3934185b264d7c950.png" /></p>
+
+<h2 id="seborhoeás-keratosis">Seborhoeás keratosis</h2>
+<p>Főleg idősekben, UV sugárzás hatására kialakuló hámló, jóindulatú bőrdaganat. Eltávolítandó, mert malignizálódhat.</p>
+
+<p><img src="\assets\img\palpebra-cikk\42bc9de14d044ed6937df9334d5bb21d.png" alt="42bc9de14d044ed6937df9334d5bb21d.png" /></p>
+
+<h2 id="cornu-cutaneum">Cornu cutaneum</h2>
+<p>Seborhoeás keratosishoz hasonló hámdaganat. Elszarusodó szarvszerűen kiemelkedő jóindulatú daganat.</p>
+
+<p><img src="\assets\img\palpebra-cikk\3e50a42f25ba7b86980c023b95129911.png" alt="3e50a42f25ba7b86980c023b95129911.png" /></p>
+
+<h2 id="keratoacanthoma">Keratoacanthoma</h2>
+<p>Kezdeben gyorsan növő hámdaganat, mely spontán regrediálódik.</p>
+
+<p><img src="\assets\img\palpebra-cikk\/875701671bcebc584a3aa5601a1f75fb.png" alt="875701671bcebc584a3aa5601a1f75fb.png" /></p>
+
+<h2 id="naevus">Naevus</h2>
+<p>Jóindulatú melanocyta daganat. Szemhéjon gyakran előfordul pigmenthiányos formája. Pillaszőrök átnőhetnek rajta, a daganat felszínén megjelenhetnek. Ki kell metszeni, a tumor alapját pedig kryoterápiával kell kezelni.</p>
+
+<p><img src="\assets\img\palpebra-cikk\e3d8876012d92f55be41098df8e798b2.png" alt="e3d8876012d92f55be41098df8e798b2.png" /></p>
+
+<h2 id="haemangioma-capillare">Haemangioma capillare</h2>
+<p>Jóindulatú érdaganat, mely a kapillárisokból fejlődik. Veleszületett elváltozás, az élet első pár hetében növekszik, majd 1 éves korra regrediál. Ha ptosist okoz, el kell távolítani az amblyopia elkerülése érdekében.</p>
+
+<p><img src="\assets\img\palpebra-cikk\/fb1a6d25b8bdf18713b46fa1bf14537d.png" alt="fb1a6d25b8bdf18713b46fa1bf14537d.png" /></p>
+
+<hr />
+
+<h1 id="rosszindulatú-szemhéjtumorok">Rosszindulatú szemhéjtumorok</h1>
+<ul>
+  <li><strong>Carcinoma basocellulare</strong>
+    <ul>
+      <li>Leggyakoribb - 90%</li>
+      <li>Infiltratívan terjed, de irodalmi ritkaság, hogy áttétet adna</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="\assets\img\palpebra-cikk\/b53b24e26fe68468f68eb0f2aa841524.png" alt="b53b24e26fe68468f68eb0f2aa841524.png" /></p>
+
+<ul>
+  <li><strong>Laphám carcinoma</strong>
+    <ul>
+      <li>Ritkább - 5-6%</li>
+      <li>Adhat áttétet</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="\assets\img\palpebra-cikk\fe8677651aa2a0b28100971e7a4e1bb1.png" alt="fe8677651aa2a0b28100971e7a4e1bb1.png" /></p>
+
+<ul>
+  <li><strong>Melanoma malignum</strong>
+    <ul>
+      <li>Ritkább - 1-2%</li>
+      <li>Roszindulató melanocyta daganat, rossz prognózissal</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="\assets\img\palpebra-cikk\b0c61da54a80404f977286f444521057.png" alt="b0c61da54a80404f977286f444521057.png" /></p>
+
+<ul>
+  <li><strong>Meibom mirigy carcinoma</strong>
+    <ul>
+      <li>Meibom mirigyek kifejezetten ritka rosszindulatú daganata.</li>
+      <li>Ha recidiváló chalaziont tapasztalunk, gondolni kell rá, és szövettani vizsgálatot kell kérni.</li>
+    </ul>
+  </li>
+  <li><strong>Merkel sejtes carcinom</strong>
+    <ul>
+      <li>Bőr nagyon ritka és agresszív neuroendokrin tumora.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Terápiájuk alapvetően műtéti 3-4 mm-es ép széllel.
+Melanoma daganat esetén kiterjesztett excisio kell, szükség esetén reexcisio.
+Melanoma dagatokat, illetve a laphám carcinomákat onkológiai gondozásba kell venni.</p>
+
+<hr />
+
+<h1 id="szemhéj-sérülései">Szemhéj sérülései</h1>
+<p>A szemhéj sérülései lehetnek tompák vagy élesek.</p>
+
+<h2 id="tompa-sérülések">Tompa sérülések</h2>
+<p>Legszembetűnöbb tünete a hematoma, ugyanakkor, ha a hematoma megtalálható az alsó és a felső szemhéjon is, akkor gondolni kell koponyalapi törésre.
+Ha sérül az os ethmoidale akkor könnyen alakulhat ki szemhéj emphysaema is. Tünete a szemhéj duzzanata, lószőrpárna tapintás és crepitatio tapintásra.
+A hematoma magától gyógyul 10-12 nap alatt, de emphysaema esetén orális antibiotikumot kell indítani a fertőzés megelőzése érdekében.</p>
+
+<h2 id="nyílt-sérülések">Nyílt sérülések</h2>
+<p>Általában közlekedési balesetek miatt alakulnak ki, ahol a repülő üvegszilánkok sértik a szemhéjat. Gyermekekben állatok harapásai okozhatnak nyílt sebzést.
+Terápiája alapvetően a sebszélek gondos egyesítése, lehetőség szerint a szemhéjfunkciók megtartásával. Ha a belső zug sérül, fel kell keresni a könycsatornákat, azokat szükség szerint rekonstruálni kell.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Palpebra anatómia: A szem védelmét szolgáló mozgásra képes módosult bőrredő]]></summary></entry></feed>
