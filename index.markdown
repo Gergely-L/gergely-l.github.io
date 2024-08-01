@@ -4,10 +4,8 @@
 
 layout: default
 ---
-Ez az oldal a saját "passion projectem". Világ életemben szerettem számítógépről, telefonról, illetve tabletről tanulni, úgy, hogy nincsenek a "pdf" formátum általi korlátozások. Innen jött az ötlet, hogy csinálok egy saját weblapot
+Ez az oldal a saját "passion projectem". VI. év előtti nyáron kezdtem el kidolgozni magamnak a szemészet kollokvium tételeit, hogy szinten tartsam magam és mindig legyen egy fix anyag ami mindig kéznél van. Világ életemben szerettem számítógépről, telefonról, illetve tabletről tanulni, úgy, hogy nincsenek a "pdf" formátum általi korlátozások. Innen jött az ötlet, hogy csinálok egy saját weblapot.
 
-Eredetileg csak magamnak terveztem futattni, ugyanakkor másoknak is sok segítség lehet egy hasonló portál, ezért döntöttem úgy, hogy ténylegesen megjelentetem.
+Eredetileg csak magamnak terveztem futattni, ugyanakkor másoknak is sok segítség lehet egy hasonló portál, ezért döntöttem úgy, hogy ténylegesen megjelentetném.
 
-Mivel szemészorvos szeretnék lenni, ezért szemészeti témák lesznek az oldalra felrakva. Mivel elsősorban hallgatótársaim fogják forgatni rajtam kívűl, ezért külön fülben fellelhetőek lesznek szépen lassan a kiadott tételsor alapján a kidolgozott tételek.
-
-Az anyagok az ***"V. éves tételek"*** fülre kattintva érhetőek el.
+Az anyagok az “V. éves tételek” fülre kattintva érhetőek el.
