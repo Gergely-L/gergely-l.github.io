@@ -1,6 +1,6 @@
 ---
 layout: page
-title: V. éves tételek
+title: Szemészet
 class: post
 nav_include: no
 ---
