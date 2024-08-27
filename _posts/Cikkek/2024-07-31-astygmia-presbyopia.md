@@ -1,7 +1,7 @@
 ---
 title: Szem fénytörési hibái II.
 layout: default
-calss: default
+class: default
 ---
 A szem fénytörésének megértéséhez:
 1. Geometriai optika és fénytörés magyarázat: [Geom. optika - fénytörés](../undefined)
